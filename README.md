@@ -1,4 +1,4 @@
-# Online Terminal - Terminal in Browser
+# OnlineTerminal - Terminal in Browser
  Just Install and Run 
  
 ## Play Demo
@@ -8,4 +8,4 @@ Supports following Languages as on glitch
 * Java
 * Python 3
 * Golang
-* Node and many more...
+* Node JS and many more...
